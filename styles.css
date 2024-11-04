@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.imageContainer{
+	width:1100px;
+	background-color:lightgray;
+}
+.col200{
+	width:200px;
+}
+.col600{
+	width:600px;
+}
+
+.main_image{
+	          width:200px
+	          height:100px
+}
+.col200 img{
+	   width:200px;
+	height:200px
+}
